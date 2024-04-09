@@ -1,5 +1,7 @@
 # pookie_books
 
+make sure to install requirements first using ```pip install -r requirements.txt```
+
 ```
 usage: pookie_books.py [-h] title author
 
